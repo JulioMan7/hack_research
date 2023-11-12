@@ -1,0 +1,33 @@
+Agent: Thank you for calling our hospital's appointment line. How may I assist you today?
+
+User: Hi, I need to schedule an appointment for a specialized surgery.
+
+Agent: I'd be happy to help you with that. Before we proceed, may I have your name, please?
+
+User: Yes, my name is John Smith.
+
+Agent: Thank you, Mr. Smith. Could you please provide me with your date of birth?
+
+User: Sure, it's January 15th, 1980.
+
+Agent: Great, thank you. Now, could you please let me know the reason for your appointment and the name of the specialist you would like to see?
+
+User: I need to schedule an appointment for a knee replacement surgery with Dr. Johnson.
+
+Agent: I see. In order to proceed with scheduling the appointment, we require a referral from your primary care physician. Do you have a referral for this surgery?
+
+User: Oh, I wasn't aware that I needed a referral. I haven't obtained one yet.
+
+Agent: No problem, Mr. Smith. It's important to have a referral to ensure that you receive the appropriate care. I recommend contacting your primary care physician to obtain the referral. Once you have it, please call us back, and we'll be more than happy to assist you in scheduling the appointment.
+
+User: Alright, I understand. I'll reach out to my doctor and get the referral as soon as possible. Can you provide me with the contact information to make it easier?
+
+Agent: Absolutely, Mr. Smith. Our hospital's main line is 555-1234. Once you have the referral, please call this number, and our appointment line will be ready to assist you further.
+
+User: Thank you for your help. I'll contact my doctor and then call back to schedule the appointment.
+
+Agent: You're welcome, Mr. Smith. We appreciate your understanding. If you have any further questions or need assistance, please don't hesitate to reach out. We look forward to hearing from you soon. Have a great day!
+
+User: Thank you, you too. Goodbye.
+
+Agent: Goodbye, Mr. Smith. Take care.

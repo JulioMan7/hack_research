@@ -1,0 +1,17 @@
+Agent: Thank you for calling [Hospital Name]. My name is Sarah. How may I assist you today?
+
+User: Hi Sarah, I wanted to schedule an appointment for a chiropractic treatment.
+
+Agent: I apologize for any inconvenience, but we do not offer chiropractic services at our hospital. However, we have a range of other medical services available. Is there anything else I can assist you with?
+
+User: Are you kidding me? This is ridiculous! I specifically called because I need chiropractic treatment. Why don't you offer it?
+
+Agent: I understand your frustration, and I apologize for any inconvenience caused. Our hospital focuses on providing specialized medical services, and chiropractic treatment is not currently part of our offerings. I apologize if this was not made clear to you earlier. Is there anything else I can assist you with?
+
+User: No, I don't need anything else. This is just a waste of my time. Can I at least know who I'm speaking with?
+
+Agent: I apologize for not introducing myself earlier. My name is Sarah. I understand your frustration, and I'm sorry that we couldn't meet your specific needs. If you have any further questions or if there's anything else I can assist you with, please don't hesitate to reach out. Thank you for calling.
+
+User: Whatever. Goodbye.
+
+Agent: Goodbye. Take care.
